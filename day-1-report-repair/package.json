@@ -1,0 +1,15 @@
+{
+  "name": "day-1-report-repair",
+  "version": "1.0.0",
+  "description": "The Elves in accounting just need you to fix your expense report (your puzzle input); apparently, something isn't quite adding up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
